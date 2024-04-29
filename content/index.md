@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to The RPG Hole 🕳️
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started. aa
+The RPG Hole 🕳️ is the place where I keep some RPG stuff. 
